@@ -94,3 +94,6 @@
     </div>
     </div>
 </div>
+
+<br><br>
+ <a href="https://www.paypal.com/paypalme/patacorporation">Donate</a>
